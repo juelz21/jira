@@ -1,0 +1,72 @@
+The Agile Process
+====================
+Agile is an iterative approach to project management and software development that helps teams deliver value to their customers
+faster and with fewer headaches. Instead of betting everything on a "big bang" launch, an agile team delivers work in small, but
+consumable, increments. Requirements, plans, and results are evaluated continuously so teams have a natural mechanism for responding to change quickly.
+
+Software
+functionality 1- Plan - Implement - Test - Review
+
+THis is the agile process.
+
+Agile Terminologies
+====================
+what are you trying to achieve? EPIC
+
+Epics are large bodies of work that can be broken down into a number of smaller tasks (called stories).
+
+EPIC
+============
+FEAUTURE
+===============
+    STORY         -----    STORY
+ TASK----TASK     |||  TASK
+ 
+ 
+ SCRUM ROLES
+ ===============
+ Used as a hierarchy in a company using AGILE to be managed by employees
+ 
+ Product Owner:
+ ==============
+ responsible for the completion of the project
+ Understand the requirements of the customer. - document what the customer wants using epics
+ maintains the product backlog - 
+ release management - keeps track of the versions and its releases.
+ 
+ SCRUM MASTER 
+ =============
+ resposible for everything together-intermediate between product owner and the development team.
+ manage backlog ensures completion 
+ 
+ most important aspect of any SDLC
+ 
+ SCRUM TEAM
+ =============
+ consist of developers and quality assurance 
+ break down the work into subtasks
+ ensure timely delivery, with quality insurance
+ communicate their progress with the scrum master
+ 
+ EXAMPLE OF SCRUM ROLES
+ =====================
+ product owner - talks to client and creates backlog - EPIC - As a customer I want to pay for my orders through online wallet
+ 
+ scrum master - teaches and ensures SCRUM practices to the team
+ 
+ scrum team - learn SCRUM practices break down EPIC into stories 
+ STORY   |  STORY
+ As a customer I want to be able to pay through paypal
+  As a customer I want to be able to pay through stripe
+  
+  SCRUM MASTER create the stories
+  then the SCRUM team will break them down into tasks (integrate paypal API)
+  
+  SPRINT ACTIVITIES
+  SCRUM board with the story but has to do, in progress, testing, done
+  
+  SPRINT - A sprint is a short, time-boxed period when a scrum team works to complete a set amount of work. Generally 1 to 4 weeks
+  daily 15 min meetings at the beginning of the day present day goals and previous days work
+ 
+ 
+ 
